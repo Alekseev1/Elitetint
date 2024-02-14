@@ -1003,7 +1003,7 @@ html, body {
 }
 @media only screen and (max-width: 620px) {
   .book__form {
-display: flex;
+    display: flex;
     flex-direction: column;
     row-gap: 5px;
     margin-bottom: 0px;
@@ -1013,6 +1013,7 @@ display: flex;
 }
   .message {
     padding-bottom: 50px;
+  }
   .logos__row {
     padding-bottom: 50px;
   }
